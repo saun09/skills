@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
-<html>
+:<html>
   <body>
     <h1> <u> SAUNDARYA SUBRAMANIAM</u></h1>
     <h2> FY BTECH</h2>
