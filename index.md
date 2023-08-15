@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog.
+title: Welcome 
 name: Saundarya Subramaniam
-hi: hello🧒
+
 ---
 
