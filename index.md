@@ -1,11 +1,7 @@
 ---
-<html>
-<body>
-<h1>title: Welcome 2023-08-15</h1>
-<h1>name: Saundarya Subramaniam</h1>
+title: Welcome 2023-08-15
+name: Saundarya Subramaniam
 course: FY BTECH ,COMPUTER ENGINEERING
 skills: Arduino IDE , C , C++
-</body>
-</html>
 ---
 
